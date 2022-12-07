@@ -18,3 +18,6 @@
 ## :dart: Status do projeto
 * Finalizado 
 
+## Deploy:
+* https://joaopedrobenassi.github.io/GeradoorQrCode/
+
